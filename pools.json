@@ -1,23 +1,9 @@
-[
+[  
   {
-    "poolName": "NaN",
-    "url": "",
+    "poolName": "EquiGems!",
+    "url": "https://equigems.online",
     "searchStrings": [
-      "/NaN"
-    ]
-  },
-  {
-    "poolName": "Stratum",
-    "url": "",
-    "searchStrings": [
-      "/nodeStratum/"
-    ]
-  },
-  {
-    "poolName": "Z-NOMP",
-    "url": "",
-    "searchStrings": [
-      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+      "EquiGems! https://equigems.online"
     ]
   }
 ]
